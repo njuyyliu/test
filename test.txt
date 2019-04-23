@@ -1,6 +1,4 @@
 <<<<<<< HEAD
 This is a test file.
 shifhzl
-=======
-This is a test file.
->>>>>>> a14819fc1484cb3aaa9aa4193de59dee23d67c4e
+
